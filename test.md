@@ -4,6 +4,8 @@
 
 ## Purpose
 
+the purpose is to learn
+
 ## new section
 
 ## How to Contibute
@@ -11,3 +13,7 @@
 this is a new line
 
 this is another line
+
+hello
+
+hi
