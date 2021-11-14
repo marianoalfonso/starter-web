@@ -17,3 +17,7 @@ this is another line
 hello
 
 hi
+
+hello, new line
+
+another bit of dust
